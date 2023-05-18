@@ -1,4 +1,5 @@
-# TCC
+# Corner Case Definition for Autonomous Sailboats
 
 
-Repositorio contendo transcrições das entrevistas realizadas durante o meu TCC
+Repositorio contendo transcrições das entrevistas realizadas e do grupo focal
+
